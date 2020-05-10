@@ -21,6 +21,9 @@ Mencari informasi/cara kerja compiler atau piranti/tool yang dibutuhkan adalah t
 Adapun modul-modul yang saya gunakan saat ini adalah:
 
 - Belajar [Fortran95](https://www.fortrantutorial.com/) (free)
-- Belajaar C++ dari [programiz](https://www.programiz.com/cpp-programming) (free)
+- Belajar C++ dari [programiz](https://www.programiz.com/cpp-programming) (free)
+
+Sekalian, untuk simpan daftar modul lainnya yang sedang/pernah saya pelajari, siapa tahu bermanfaat:
+- Kursus Python untuk pemula di [Kaggle](https://www.kaggle.com/learn/python) (free)
 
 Mulai: 2020-04-22
