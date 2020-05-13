@@ -1,4 +1,4 @@
-// Program untuk mencari faktorial
+// Program untuk mencari faktorial menggunakan pengulangan (loop)
 
 #include <iostream>
 using namespace std;
@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     int i, n, factorial = 1;
 
-    cout << "Masukkan angka (integer) positif: ";
+    cout << "Masukkan bilangan (integer) positif: ";
     cin >> n;
 
     // (initializationStatement; testExpression; updateStatement)
